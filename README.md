@@ -8,13 +8,13 @@
 
 [![MS Build and Test](https://github.com/tpu-game-2022/comp2_11_tree/actions/workflows/ms_test.yml/badge.svg)](https://github.com/tpu-game-2022/comp2_11_tree/actions/workflows/ms_test.yml)
 
-（このファイルの上の行の[tpu-game-2022]の部分(2か所)を自分のアカウント名に修正してください）
+（このファイルの上の行の[rio123o]の部分(2か所)を自分のアカウント名に修正してください）
 
 
 # 進め方
 * 本リポジトリをforkしてください
 * GitHub Actions を有効にしてください。
-* 上記の[tpu-game-2022]を自分のアカウント名に変更してください(2か所)
+* 上記の[rio123o]を自分のアカウント名に変更してください(2か所)
 * リポジトリをローカルにダウンロードしてください
 * Visual Studio 2022 でソリューションを立ち上げてください。
 * テストエクスプローラーを開いてテストを実行してください。
